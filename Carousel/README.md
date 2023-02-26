@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### [Buendia. — _DESIGN SERIES._](https://ewwgene.github.io/Buendia)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [Buendia /](https://ewwgene.github.io/Buendia)
+
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Buendia/100.jpg)
 <a id="110"></a> ![110.jpg](https://ewwgene.github.io/Buendia/110.jpg)
 <a id="111"></a> ![111.jpg](https://ewwgene.github.io/Buendia/111.jpg)
@@ -13,3 +13,5 @@
 <a id="312"></a> ![312.jpg](https://ewwgene.github.io/Buendia/312.jpg)
 <a id="323"></a> ![323.jpg](https://ewwgene.github.io/Buendia/323.jpg)
 
+
+### [ABOUT/](https://ewwgene.github.io/) 
