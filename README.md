@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Buendia
 
-[![Buendia](/100.jpg)](https://ewwgene.github.io/Buendia/Carousel)<a id="110" href="https://ewwgene.github.io/Buendia/Carousel/#110"><img src="https://ewwgene.github.io/Buendia/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Buendia/Carousel/#111"><img src="https://ewwgene.github.io/Buendia/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Buendia/Carousel/#112"><img src="https://ewwgene.github.io/Buendia/112.jpg" height="66"></a> <a id="120" href="https://ewwgene.github.io/Buendia/Carousel/#120"><img src="https://ewwgene.github.io/Buendia/120.jpg" height="66"></a> <a id="121" href="https://ewwgene.github.io/Buendia/Carousel/#121"><img src="https://ewwgene.github.io/Buendia/121.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Buendia](/100.jpg)](https://ewwgene.github.io/Buendia/Carousel)<br> <a id="110" href="https://ewwgene.github.io/Buendia/Carousel/#110"><img src="https://ewwgene.github.io/Buendia/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Buendia/Carousel/#111"><img src="https://ewwgene.github.io/Buendia/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Buendia/Carousel/#112"><img src="https://ewwgene.github.io/Buendia/112.jpg" height="66"></a> <a id="120" href="https://ewwgene.github.io/Buendia/Carousel/#120"><img src="https://ewwgene.github.io/Buendia/120.jpg" height="66"></a> <a id="121" href="https://ewwgene.github.io/Buendia/Carousel/#121"><img src="https://ewwgene.github.io/Buendia/121.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="311" href="https://ewwgene.github.io/Buendia/Carousel/#311"><img src="https://ewwgene.github.io/Buendia/311.jpg" height="66"></a> <a id="312" href="https://ewwgene.github.io/Buendia/Carousel/#312"><img src="https://ewwgene.github.io/Buendia/312.jpg" height="66"></a> <a id="323" href="https://ewwgene.github.io/Buendia/Carousel/#323"><img src="https://ewwgene.github.io/Buendia/323.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
