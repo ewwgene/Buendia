@@ -12,7 +12,10 @@ _`SOLID_PINE_WOOD`_ _`WAX`_
 
 _`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_ 
 
-Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_. Размеры:<br> - _900mm&times;600mm&times;400mm_.<br> - _1200mm&times;1200mm&times;400mm_.
+Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_.
+ Размеры:
+ - _900mm&times;600mm&times;400mm_.
+ - _1200mm&times;1200mm&times;400mm_.
 
 <a id="311" href="https://ewwgene.github.io/Buendia/Carousel/#311"><img src="https://ewwgene.github.io/Buendia/311.jpg" height="66"></a> <a id="312" href="https://ewwgene.github.io/Buendia/Carousel/#312"><img src="https://ewwgene.github.io/Buendia/312.jpg" height="66"></a> <a id="323" href="https://ewwgene.github.io/Buendia/Carousel/#323"><img src="https://ewwgene.github.io/Buendia/323.jpg" height="66"></a> 
 
