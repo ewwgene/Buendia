@@ -1,22 +1,22 @@
-
+﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Buendia
 
 [![Buendia](/100.jpg)](https://ewwgene.github.io/Buendia/Carousel)<br> <a id="110" href="https://ewwgene.github.io/Buendia/Carousel/#110"><img src="https://ewwgene.github.io/Buendia/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Buendia/Carousel/#111"><img src="https://ewwgene.github.io/Buendia/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Buendia/Carousel/#112"><img src="https://ewwgene.github.io/Buendia/112.jpg" height="66"></a> <a id="120" href="https://ewwgene.github.io/Buendia/Carousel/#120"><img src="https://ewwgene.github.io/Buendia/120.jpg" height="66"></a> <a id="121" href="https://ewwgene.github.io/Buendia/Carousel/#121"><img src="https://ewwgene.github.io/Buendia/121.jpg" height="66"></a> <a id="text">&#160;</a>
 
-_`SOLID_PINE_WOOD`_ _`PLASTER`_ 
+_`SOLID_PINE_WOOD`_ _`WAX`_ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Серия журнальных столов с масивными ножками, массив дерева.
 
 ### Making — _WINTER-2016.01._
 <a id="102m" href="https://ewwgene.github.io/Buendia/Carousel/#102m"><img src="https://ewwgene.github.io/Buendia/Making/102.jpg" height="66"></a> <a id="104m" href="https://ewwgene.github.io/Buendia/Carousel/#104m"><img src="https://ewwgene.github.io/Buendia/Making/104.jpg" height="66"></a>  
 
-_`IDRAW`_ _`SILO3D`_  _**`SOLID_PINE_WOOD`**_ _**`KUTZALL WHEELS`**_ _**`NATURAL OIL`**_ _**`WAX`**_ 
+_`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_. Размеры:<br> - _900mm&times;600mm&times;400mm_.<br> - _1200mm&times;1200mm&times;400mm_.
 
 <a id="311" href="https://ewwgene.github.io/Buendia/Carousel/#311"><img src="https://ewwgene.github.io/Buendia/311.jpg" height="66"></a> <a id="312" href="https://ewwgene.github.io/Buendia/Carousel/#312"><img src="https://ewwgene.github.io/Buendia/312.jpg" height="66"></a> <a id="323" href="https://ewwgene.github.io/Buendia/Carousel/#323"><img src="https://ewwgene.github.io/Buendia/323.jpg" height="66"></a> 
 
-_`DESIGN SERIES`_ _`SCULPTURE`_ 
+_`DESIGN_SERIES`_ _`FURNITURE`_ 
 
 <br> 
 
