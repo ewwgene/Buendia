@@ -5,5 +5,5 @@
     "hardware": ["KUTZALL_WHEELS"],
     "software": ["IDRAW", "SILO_3D"],
     "overview": "Серия журнальных столов с масивными ножками, массив дерева.",
-    "making": "Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_.\n Размеры:\n - _900mm&times;600mm&times;400mm_.\n - _1200mm&times;1200mm&times;400mm_."
+    "making": "Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_.<br> Размеры:\n - _900mm&times;600mm&times;400mm_.\n - _1200mm&times;1200mm&times;400mm_."
 }

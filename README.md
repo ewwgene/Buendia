@@ -12,8 +12,7 @@ _`SOLID_PINE_WOOD`_ _`WAX`_
 
 _`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_ 
 
-Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_.
- Размеры:
+Фигурные ножки фрезерованны твердосплавными дисками  _**`KUTZALL_WHEELS`**_.<br> Размеры:
  - _900mm&times;600mm&times;400mm_.
  - _1200mm&times;1200mm&times;400mm_.
 
