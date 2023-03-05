@@ -8,7 +8,7 @@ _`SOLID_PINE_WOOD`_ _`WAX`_
 Серия журнальных столов с масивными ножками, массив дерева.
 
 ### Making — _WINTER-2016.01._
-<a id="102m" href="https://ewwgene.github.io/Buendia/Carousel/#102m"><img src="https://ewwgene.github.io/Buendia/Making/102.jpg" height="66"></a> <a id="104m" href="https://ewwgene.github.io/Buendia/Carousel/#104m"><img src="https://ewwgene.github.io/Buendia/Making/104.jpg" height="66"></a>  
+<a id="102m" href="https://ewwgene.github.io/Buendia/Carousel/#102m"><img src="https://ewwgene.github.io/Buendia/Making/102.jpg" height="66"></a> <a id="104m" href="https://ewwgene.github.io/Buendia/Carousel/#104m"><img src="https://ewwgene.github.io/Buendia/Making/104.jpg" height="66"></a> <a id="111m" href="https://ewwgene.github.io/Buendia/Carousel/#111m"><img src="https://ewwgene.github.io/Buendia/Making/111.jpg" height="66"></a>  
 
 _`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_ 
 
